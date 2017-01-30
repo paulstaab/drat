@@ -3,6 +3,6 @@ Version: 0.0.5
 Imports: xml2, R6, lubridate
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 063d7279ab9c1ff23439f7f613623a47
+MD5sum: a3cc953a00f14d55e4c3d6d4dc5134ac
 NeedsCompilation: no
 
