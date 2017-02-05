@@ -1,8 +1,8 @@
 Package: healthieR
-Version: 0.0.6
+Version: 0.0.7
 Imports: xml2, R6, lubridate
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 6ef706a7332f367fa2dcd811d7e9bf7c
+MD5sum: bd470c971d35f4a12132a6264c3f3ffb
 NeedsCompilation: no
 
