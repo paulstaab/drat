@@ -1,8 +1,8 @@
 Package: healthieR
-Version: 0.0.9
-Imports: xml2, R6, lubridate
-Suggests: testthat
+Version: 0.0.10
+Imports: assertthat, lubridate, tibble, xml2
+Suggests: testthat, dplyr
 License: MIT + file LICENSE
-MD5sum: 41a3731c75b3375b1ba885c297a4ad71
+MD5sum: d41e18ad59fed97272c846fc5760aa5c
 NeedsCompilation: no
 
