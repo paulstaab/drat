@@ -3,5 +3,5 @@ Version: 0.1.0
 Imports: assertthat, lubridate, tibble, xml2
 Suggests: testthat, dplyr
 License: MIT + file LICENSE
-MD5sum: f3ec9baf60faccf494d5ec96857778e0
+MD5sum: d7b34653aa66590649d101a71b07cfb9
 NeedsCompilation: no
